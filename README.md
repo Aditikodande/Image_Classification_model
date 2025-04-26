@@ -114,4 +114,5 @@ These plots help in identifying overfitting or underfitting during model trainin
 - CIFAR-10 dataset from Canadian Institute for Advanced Research.
 
 ---
-
+https://github.com/user-attachments/assets/c5bb8ce9-be1f-4f2b-a25f-e24de719fb22
+https://github.com/user-attachments/assets/d79cf79f-74f0-43be-b7b5-5e030da8b747
